@@ -1,0 +1,27 @@
+PODS:
+  - FBSnapshotTestCase (2.1.4):
+    - FBSnapshotTestCase/SwiftSupport (= 2.1.4)
+  - FBSnapshotTestCase/Core (2.1.4)
+  - FBSnapshotTestCase/SwiftSupport (2.1.4):
+    - FBSnapshotTestCase/Core
+  - LSSWarToAmr (0.1.0)
+
+DEPENDENCIES:
+  - FBSnapshotTestCase
+  - LSSWarToAmr (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - FBSnapshotTestCase
+
+EXTERNAL SOURCES:
+  LSSWarToAmr:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
+  LSSWarToAmr: efdc23f3fc307775d9d1b7997ec2c7a10dce9f02
+
+PODFILE CHECKSUM: f4c4d895b1de7ed746282b1afcc3b4c12ef07575
+
+COCOAPODS: 1.9.3

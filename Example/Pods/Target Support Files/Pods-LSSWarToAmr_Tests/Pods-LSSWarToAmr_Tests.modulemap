@@ -1,0 +1,6 @@
+framework module Pods_LSSWarToAmr_Tests {
+  umbrella header "Pods-LSSWarToAmr_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
