@@ -18,6 +18,7 @@
 {
     [super viewDidLoad];
     //encode_amr(@"录音的路径wavPath",@"输出的amr文件想要保存的路径Path");
+    //decode_amr(@"amr文件路径", NSMutableData *outData);//输出wav文件流播放
 	// Do any additional setup after loading the view, typically from a nib.
 }
 
