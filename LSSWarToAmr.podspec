@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'LSSWarToAmr'
-  s.version          = '0.1.1'
+  s.version          = '0.1.2'
   s.summary          = 'LSSWarToAmr'
 
 # This description is used to generate tags and improve search results.
@@ -31,7 +31,8 @@ TODO: Add long description of the pod here.
   s.ios.deployment_target = '10.0'
 
   s.source_files = 'LSSWarToAmr/Classes/**/*'
-  
+  s.vendored_libraries = 'LSSWarToAmr/Classes/amr/libopencore-amrnb.a' #表示依赖第三方/自己的静态库（比如libWeChatSDK.a）
+
   # s.resource_bundles = {
   #   'LSSWarToAmr' => ['LSSWarToAmr/Assets/*.png']
   # }

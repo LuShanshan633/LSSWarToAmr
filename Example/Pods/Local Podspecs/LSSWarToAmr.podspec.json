@@ -1,7 +1,7 @@
 {
   "name": "LSSWarToAmr",
-  "version": "0.1.0",
-  "summary": "A short description of LSSWarToAmr.",
+  "version": "0.1.1",
+  "summary": "LSSWarToAmr",
   "description": "TODO: Add long description of the pod here.",
   "homepage": "https://github.com/LuShanshan633/LSSWarToAmr",
   "license": {
@@ -13,10 +13,10 @@
   },
   "source": {
     "git": "https://github.com/LuShanshan633/LSSWarToAmr.git",
-    "tag": "0.1.0"
+    "tag": "0.1.1"
   },
   "platforms": {
-    "ios": "8.0"
+    "ios": "10.0"
   },
   "source_files": "LSSWarToAmr/Classes/**/*"
 }
