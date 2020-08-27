@@ -7,7 +7,7 @@
 //
 
 #import "LSSViewController.h"
-
+#import <LSSWarToAmr/wav_amr.h>
 @interface LSSViewController ()
 
 @end
@@ -17,6 +17,7 @@
 - (void)viewDidLoad
 {
     [super viewDidLoad];
+    //encode_amr(@"录音的路径wavPath",@"输出的amr文件想要保存的路径Path");
 	// Do any additional setup after loading the view, typically from a nib.
 }
 

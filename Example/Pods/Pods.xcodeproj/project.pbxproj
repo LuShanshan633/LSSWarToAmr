@@ -8,62 +8,62 @@
 
 /* Begin PBXBuildFile section */
 		00224C929D57F45B70E87359E719948D /* FBSnapshotTestCase.h in Headers */ = {isa = PBXBuildFile; fileRef = FEE661E58CA6655B39AA49AA4C021C33 /* FBSnapshotTestCase.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		010A360CEAFB657C4A6C6CB7BD6B74C8 /* libopencore-amrnb.a in Sources */ = {isa = PBXBuildFile; fileRef = F1DA7459739CDE7422784EB51B83D811 /* libopencore-amrnb.a */; };
-		115FA0689B76CBA392FAFC979CC3042C /* interf_dec.h in Headers */ = {isa = PBXBuildFile; fileRef = 6CE2DE3191C7D07B34A7F28873FA529F /* interf_dec.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		010A360CEAFB657C4A6C6CB7BD6B74C8 /* libopencore-amrnb.a in Sources */ = {isa = PBXBuildFile; fileRef = 1590A8008F9714A535C7F181C4DB1843 /* libopencore-amrnb.a */; };
+		115FA0689B76CBA392FAFC979CC3042C /* interf_dec.h in Headers */ = {isa = PBXBuildFile; fileRef = 770F6501B0C5434CD60B423B6476CB7F /* interf_dec.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		11C410135C7E89353B480AC8DE0BFB77 /* UIApplication+StrictKeyWindow.m in Sources */ = {isa = PBXBuildFile; fileRef = 0F538C426803AE34255FC6E35B408CCA /* UIApplication+StrictKeyWindow.m */; };
 		14AD81D52FAD9CF2C065C61FB00C3B4F /* UIImage+Diff.m in Sources */ = {isa = PBXBuildFile; fileRef = 4568279DE47DC3AB91598E1317503995 /* UIImage+Diff.m */; };
 		14C511527597E5846AB2627F791C7D8E /* QuartzCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 716A9972B9D9103B54DB950893FAF104 /* QuartzCore.framework */; };
 		1988A2B77CA551D3B103D412E8AFE1DE /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 7BD4ED544B638D07C7D755AF1C27116A /* Foundation.framework */; };
-		1DFB0C2C799D61833C8643DFA395437F /* wavwriter.mm in Sources */ = {isa = PBXBuildFile; fileRef = 9EF09823FBFD6761530BCBD0241A962B /* wavwriter.mm */; };
+		1DFB0C2C799D61833C8643DFA395437F /* wavwriter.mm in Sources */ = {isa = PBXBuildFile; fileRef = C9682A945755D9FD7B3831BD4A1734C9 /* wavwriter.mm */; };
 		2DCFF0CE0BD295F1D46D3247F36B192C /* UIImage+Compare.m in Sources */ = {isa = PBXBuildFile; fileRef = 235A78CFFA6D8B8D86CACD733531CB13 /* UIImage+Compare.m */; };
 		40039E0AF0D764360B1D4FC4F7950D2E /* UIApplication+StrictKeyWindow.h in Headers */ = {isa = PBXBuildFile; fileRef = 99A67367E018411D614EC8536A8A1C5B /* UIApplication+StrictKeyWindow.h */; settings = {ATTRIBUTES = (Project, ); }; };
 		55EBA7BE5A158B40D603B47AC6533B16 /* Pods-LSSWarToAmr_Tests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 8C163D1B64670541962F0E72C712A1FD /* Pods-LSSWarToAmr_Tests-dummy.m */; };
-		58D8790C66E34DDED60A51E3227C591D /* LSSWarToAmr-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = B073ED270E190069F5F072EF133DEFA4 /* LSSWarToAmr-dummy.m */; };
-		66A8F349E59424D2D43B5904DA720858 /* wav_amr.mm in Sources */ = {isa = PBXBuildFile; fileRef = 00DBF082F353B1BE373ADDFC8D6367B3 /* wav_amr.mm */; };
+		58D8790C66E34DDED60A51E3227C591D /* LSSWarToAmr-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 1AC496A06ABF022A4DE20A2B8F46D4D6 /* LSSWarToAmr-dummy.m */; };
+		66A8F349E59424D2D43B5904DA720858 /* wav_amr.mm in Sources */ = {isa = PBXBuildFile; fileRef = 5F5835AC08EF1F1A723BD0E22C7BD06A /* wav_amr.mm */; };
 		6AE239C5D116E1C06F5705699FB9EAF0 /* XCTest.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5E601BD54DA9BF4071437E60125281FA /* XCTest.framework */; };
 		6DBC8EB7532E931C2FBDA71D1E0B66A4 /* FBSnapshotTestCase-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 1ADA6E655DC84D06359BD0ED5E36C783 /* FBSnapshotTestCase-dummy.m */; };
 		82438BF7CE2F419F23F48628F4875AAC /* Pods-LSSWarToAmr_Tests-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = A7957CF8880039CEE7E113AD6B7B192F /* Pods-LSSWarToAmr_Tests-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		88396E68DC05A379282F3B374F75F43C /* FBSnapshotTestController.m in Sources */ = {isa = PBXBuildFile; fileRef = 7E1B7EA746BF6557FD565BAE12AF9198 /* FBSnapshotTestController.m */; };
 		8CE3BF0ACE07EA42DD5DAC871BF4B767 /* FBSnapshotTestCase.m in Sources */ = {isa = PBXBuildFile; fileRef = 277B6BE10C665F515606A22FD60C6DCC /* FBSnapshotTestCase.m */; };
-		8D090CFCFCCC9779ED4B3C254FAD8A23 /* LSSWarToAmr-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 9E8935800AD3D8C170D594E973EE6240 /* LSSWarToAmr-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		8DDB5E7C93900E7E485F921D8894A75D /* interf_enc.h in Headers */ = {isa = PBXBuildFile; fileRef = 01EFE32D7989AB7342553277827AC9B0 /* interf_enc.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		8E9AD1FB4A3758F8B0D5D5E7B719BA8C /* wav_amr.h in Headers */ = {isa = PBXBuildFile; fileRef = 5CA07F40CBD68E93A735D100997A259B /* wav_amr.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		8D090CFCFCCC9779ED4B3C254FAD8A23 /* LSSWarToAmr-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 7D7721844C45328F40D1869D46987002 /* LSSWarToAmr-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		8DDB5E7C93900E7E485F921D8894A75D /* interf_enc.h in Headers */ = {isa = PBXBuildFile; fileRef = 14CEB2F521481D67EED78FB63C90528B /* interf_enc.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		8E9AD1FB4A3758F8B0D5D5E7B719BA8C /* wav_amr.h in Headers */ = {isa = PBXBuildFile; fileRef = DCD843C3EB44CC1E23E0420228FCF639 /* wav_amr.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		90142C6259374E18E640396A59AD379A /* FBSnapshotTestController.h in Headers */ = {isa = PBXBuildFile; fileRef = AE9FF9459FBCDC4AF88FB6B5A4CC1439 /* FBSnapshotTestController.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		93297EF0F90EE6250F80687BCF2BD059 /* Pods-LSSWarToAmr_Example-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 2562F1F22A991DAF648AFABC446600B5 /* Pods-LSSWarToAmr_Example-dummy.m */; };
 		9D65089019D558E5A9661F2DCAD20313 /* SwiftSupport.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F0D66CF296ABBC57EC4D0452397E235 /* SwiftSupport.swift */; };
 		A525E29E0A8079B35B793D8A2B5FBDF2 /* UIImage+Snapshot.m in Sources */ = {isa = PBXBuildFile; fileRef = D872A3EE224412D4057C234FBC629F9C /* UIImage+Snapshot.m */; };
 		B25D795BDC4F426BC01EFC911F368B81 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 7BD4ED544B638D07C7D755AF1C27116A /* Foundation.framework */; };
-		B65EA498FC6214350929876B78CEBA70 /* wavreader.c in Sources */ = {isa = PBXBuildFile; fileRef = C9F5C93D806575A2F1923D7B5F1C5352 /* wavreader.c */; };
+		B65EA498FC6214350929876B78CEBA70 /* wavreader.c in Sources */ = {isa = PBXBuildFile; fileRef = 45FF10D81FAB50A35DD691FD94AB64F4 /* wavreader.c */; };
 		B74CD6E6EBEA0B642776BCB37850415D /* UIImage+Snapshot.h in Headers */ = {isa = PBXBuildFile; fileRef = 284833D18C244D2B42966B6EE425AA59 /* UIImage+Snapshot.h */; settings = {ATTRIBUTES = (Private, ); }; };
 		B94F8F0AEAC7826EAF6B7508ECAF6398 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 7BD4ED544B638D07C7D755AF1C27116A /* Foundation.framework */; };
 		BB0DE5A66C8CDBC3FD4E302C16A132D6 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 7BD4ED544B638D07C7D755AF1C27116A /* Foundation.framework */; };
 		C49D52712466511E332C952834C81FE1 /* FBSnapshotTestCasePlatform.h in Headers */ = {isa = PBXBuildFile; fileRef = 88B1DEEBF6316A84D7413645212492FF /* FBSnapshotTestCasePlatform.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		D04AAC8B22E4A4DC4F39891C4E52F251 /* UIImage+Diff.h in Headers */ = {isa = PBXBuildFile; fileRef = 96187BF3038121CC146335E9FF0B0AFF /* UIImage+Diff.h */; settings = {ATTRIBUTES = (Private, ); }; };
 		DD74A59884D03A57F041CE73C88E4806 /* Pods-LSSWarToAmr_Example-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 685221723E9187CC32C2B2E63C175134 /* Pods-LSSWarToAmr_Example-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		DE63E272D72F65478A82D7796018F47B /* wavwriter.h in Headers */ = {isa = PBXBuildFile; fileRef = 8685E4A5B9E3254FD9D391AB1D8BE738 /* wavwriter.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		DE63E272D72F65478A82D7796018F47B /* wavwriter.h in Headers */ = {isa = PBXBuildFile; fileRef = 5105E476B40B60A6F38776B2D9C34B7E /* wavwriter.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		E0B8D095C732352C854D365B9E5B993D /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8CAA89EEF1039078430D7A886477E365 /* UIKit.framework */; };
 		E8AC509D18EBF21B1FEA909652A01108 /* FBSnapshotTestCasePlatform.m in Sources */ = {isa = PBXBuildFile; fileRef = 6ABB3EB3CCC5BCA82F40FE8DC87BB778 /* FBSnapshotTestCasePlatform.m */; };
-		EB5B1007630CB78381E4AC9C1A4F20D8 /* wavreader.h in Headers */ = {isa = PBXBuildFile; fileRef = EC637FBF4D3CC913BC2A3D31BBE7BB9A /* wavreader.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		EB5B1007630CB78381E4AC9C1A4F20D8 /* wavreader.h in Headers */ = {isa = PBXBuildFile; fileRef = 0B1FE1422A6320D5FF3D0DCB07369C5E /* wavreader.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		F1AAAE00BB32B733B238E2B4E8424506 /* UIImage+Compare.h in Headers */ = {isa = PBXBuildFile; fileRef = 656116C8FA5458F45D4707110C9530EC /* UIImage+Compare.h */; settings = {ATTRIBUTES = (Private, ); }; };
 		F720FAF13A108CE6901E0A8B0580E1E8 /* FBSnapshotTestCase-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 8E5923010B02074CAA9AAF6EA02D66AA /* FBSnapshotTestCase-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
-		634A15620B1730BAF5529C182D596E5A /* PBXContainerItemProxy */ = {
+		08A4EA29481478E3FB9F327629D3DCF0 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = BFDFE7DC352907FC980B868725387E98 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = 80AB35E10621C60337464C7DD89EC031;
 			remoteInfo = LSSWarToAmr;
 		};
-		838CC316114C47D6E9C9F0D70DD0D783 /* PBXContainerItemProxy */ = {
+		2F612B98AA47FA8A790285CB7F4FA2D4 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = BFDFE7DC352907FC980B868725387E98 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = 5371202695CAD5580A1779D16901C96F;
 			remoteInfo = "Pods-LSSWarToAmr_Example";
 		};
-		C30FBBFE6A23F34AD34EE97DA99857E8 /* PBXContainerItemProxy */ = {
+		5E59494A7F73E0614FB8F16CA9D859EF /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = BFDFE7DC352907FC980B868725387E98 /* Project object */;
 			proxyType = 1;
@@ -73,72 +73,72 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		00DBF082F353B1BE373ADDFC8D6367B3 /* wav_amr.mm */ = {isa = PBXFileReference; includeInIndex = 1; name = wav_amr.mm; path = LSSWarToAmr/Classes/amr/wav_amr.mm; sourceTree = "<group>"; };
-		01B328556D492480F83FF3C7EAC52938 /* LSSWarToAmr.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; path = LSSWarToAmr.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
-		01EFE32D7989AB7342553277827AC9B0 /* interf_enc.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = interf_enc.h; path = LSSWarToAmr/Classes/amr/interf_enc.h; sourceTree = "<group>"; };
+		0A93A7E5BD20A36B8B329B66419FE992 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; path = README.md; sourceTree = "<group>"; };
+		0B1FE1422A6320D5FF3D0DCB07369C5E /* wavreader.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = wavreader.h; path = LSSWarToAmr/Classes/amr/wavreader.h; sourceTree = "<group>"; };
 		0C2B0B14356C1A6EF52402E6DB41305B /* Pods-LSSWarToAmr_Tests-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-LSSWarToAmr_Tests-Info.plist"; sourceTree = "<group>"; };
 		0F538C426803AE34255FC6E35B408CCA /* UIApplication+StrictKeyWindow.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UIApplication+StrictKeyWindow.m"; path = "FBSnapshotTestCase/Categories/UIApplication+StrictKeyWindow.m"; sourceTree = "<group>"; };
 		13A2F0CAB9ADA24A1C71282972BC3B50 /* Pods-LSSWarToAmr_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-LSSWarToAmr_Example.release.xcconfig"; sourceTree = "<group>"; };
+		14CEB2F521481D67EED78FB63C90528B /* interf_enc.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = interf_enc.h; path = LSSWarToAmr/Classes/amr/interf_enc.h; sourceTree = "<group>"; };
+		1590A8008F9714A535C7F181C4DB1843 /* libopencore-amrnb.a */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = archive.ar; name = "libopencore-amrnb.a"; path = "LSSWarToAmr/Classes/amr/libopencore-amrnb.a"; sourceTree = "<group>"; };
+		1AC496A06ABF022A4DE20A2B8F46D4D6 /* LSSWarToAmr-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "LSSWarToAmr-dummy.m"; sourceTree = "<group>"; };
 		1ADA6E655DC84D06359BD0ED5E36C783 /* FBSnapshotTestCase-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "FBSnapshotTestCase-dummy.m"; sourceTree = "<group>"; };
+		214AC903427775E18E383F6D4A9889E6 /* LSSWarToAmr-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "LSSWarToAmr-prefix.pch"; sourceTree = "<group>"; };
+		220D849058D638ABC9D05FE69742D178 /* LSSWarToAmr.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; path = LSSWarToAmr.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		235A78CFFA6D8B8D86CACD733531CB13 /* UIImage+Compare.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UIImage+Compare.m"; path = "FBSnapshotTestCase/Categories/UIImage+Compare.m"; sourceTree = "<group>"; };
 		2562F1F22A991DAF648AFABC446600B5 /* Pods-LSSWarToAmr_Example-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-LSSWarToAmr_Example-dummy.m"; sourceTree = "<group>"; };
 		277B6BE10C665F515606A22FD60C6DCC /* FBSnapshotTestCase.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = FBSnapshotTestCase.m; path = FBSnapshotTestCase/FBSnapshotTestCase.m; sourceTree = "<group>"; };
 		284833D18C244D2B42966B6EE425AA59 /* UIImage+Snapshot.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIImage+Snapshot.h"; path = "FBSnapshotTestCase/Categories/UIImage+Snapshot.h"; sourceTree = "<group>"; };
 		2FAB586491DD2A99102AE7E8631B7C0C /* Pods-LSSWarToAmr_Tests-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-LSSWarToAmr_Tests-frameworks.sh"; sourceTree = "<group>"; };
 		391E9E57D423872918CD3D4AF6E555C8 /* Pods-LSSWarToAmr_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-LSSWarToAmr_Example.debug.xcconfig"; sourceTree = "<group>"; };
+		3BB459C2F8520A99EF1AE93199617ADD /* LSSWarToAmr-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "LSSWarToAmr-Info.plist"; sourceTree = "<group>"; };
 		3F0D66CF296ABBC57EC4D0452397E235 /* SwiftSupport.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = SwiftSupport.swift; path = FBSnapshotTestCase/SwiftSupport.swift; sourceTree = "<group>"; };
 		4568279DE47DC3AB91598E1317503995 /* UIImage+Diff.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UIImage+Diff.m"; path = "FBSnapshotTestCase/Categories/UIImage+Diff.m"; sourceTree = "<group>"; };
+		45FF10D81FAB50A35DD691FD94AB64F4 /* wavreader.c */ = {isa = PBXFileReference; includeInIndex = 1; name = wavreader.c; path = LSSWarToAmr/Classes/amr/wavreader.c; sourceTree = "<group>"; };
 		4C646BDD54DF9CDB6BC19A833DE77A29 /* LSSWarToAmr.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = LSSWarToAmr.framework; path = LSSWarToAmr.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		4C6513B09838318BD763CFD5390D1DE0 /* FBSnapshotTestCase.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = FBSnapshotTestCase.release.xcconfig; sourceTree = "<group>"; };
-		4E6301E1DDE3831934AF73871ED51A1A /* LSSWarToAmr.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = LSSWarToAmr.modulemap; sourceTree = "<group>"; };
 		4F24E78968A04FA5DD28B988D233503D /* Pods-LSSWarToAmr_Example-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-LSSWarToAmr_Example-acknowledgements.plist"; sourceTree = "<group>"; };
-		5B723FA1D39D85010914397B596657F6 /* LSSWarToAmr-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "LSSWarToAmr-prefix.pch"; sourceTree = "<group>"; };
+		5105E476B40B60A6F38776B2D9C34B7E /* wavwriter.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = wavwriter.h; path = LSSWarToAmr/Classes/amr/wavwriter.h; sourceTree = "<group>"; };
 		5C4F31330DFA99D699E4BDC8C3573D73 /* FBSnapshotTestCase.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = FBSnapshotTestCase.framework; path = FBSnapshotTestCase.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		5CA07F40CBD68E93A735D100997A259B /* wav_amr.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = wav_amr.h; path = LSSWarToAmr/Classes/amr/wav_amr.h; sourceTree = "<group>"; };
 		5E601BD54DA9BF4071437E60125281FA /* XCTest.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = XCTest.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.2.sdk/System/Library/Frameworks/XCTest.framework; sourceTree = DEVELOPER_DIR; };
+		5F5835AC08EF1F1A723BD0E22C7BD06A /* wav_amr.mm */ = {isa = PBXFileReference; includeInIndex = 1; name = wav_amr.mm; path = LSSWarToAmr/Classes/amr/wav_amr.mm; sourceTree = "<group>"; };
+		64D7A669ADCF55BDB791CB631AF6C584 /* LSSWarToAmr.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = LSSWarToAmr.release.xcconfig; sourceTree = "<group>"; };
 		656116C8FA5458F45D4707110C9530EC /* UIImage+Compare.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIImage+Compare.h"; path = "FBSnapshotTestCase/Categories/UIImage+Compare.h"; sourceTree = "<group>"; };
 		685221723E9187CC32C2B2E63C175134 /* Pods-LSSWarToAmr_Example-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-LSSWarToAmr_Example-umbrella.h"; sourceTree = "<group>"; };
 		6A3B9F914A596CA048DC6D606F88B156 /* Pods-LSSWarToAmr_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-LSSWarToAmr_Tests.release.xcconfig"; sourceTree = "<group>"; };
 		6ABB3EB3CCC5BCA82F40FE8DC87BB778 /* FBSnapshotTestCasePlatform.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = FBSnapshotTestCasePlatform.m; path = FBSnapshotTestCase/FBSnapshotTestCasePlatform.m; sourceTree = "<group>"; };
-		6CE2DE3191C7D07B34A7F28873FA529F /* interf_dec.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = interf_dec.h; path = LSSWarToAmr/Classes/amr/interf_dec.h; sourceTree = "<group>"; };
 		6CF49D468A1C8289229D56AE2C45BE7B /* Pods-LSSWarToAmr_Example-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-LSSWarToAmr_Example-Info.plist"; sourceTree = "<group>"; };
 		716A9972B9D9103B54DB950893FAF104 /* QuartzCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = QuartzCore.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.2.sdk/System/Library/Frameworks/QuartzCore.framework; sourceTree = DEVELOPER_DIR; };
 		722E1F96DAE2D53C61CFBF3FC8E0EE61 /* Pods-LSSWarToAmr_Example-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-LSSWarToAmr_Example-frameworks.sh"; sourceTree = "<group>"; };
+		770F6501B0C5434CD60B423B6476CB7F /* interf_dec.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = interf_dec.h; path = LSSWarToAmr/Classes/amr/interf_dec.h; sourceTree = "<group>"; };
 		7BD4ED544B638D07C7D755AF1C27116A /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.2.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
+		7D7721844C45328F40D1869D46987002 /* LSSWarToAmr-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "LSSWarToAmr-umbrella.h"; sourceTree = "<group>"; };
 		7E1B7EA746BF6557FD565BAE12AF9198 /* FBSnapshotTestController.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = FBSnapshotTestController.m; path = FBSnapshotTestCase/FBSnapshotTestController.m; sourceTree = "<group>"; };
 		84053D89BB6A6708B1CD9CD98D85A5F9 /* Pods-LSSWarToAmr_Tests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-LSSWarToAmr_Tests-acknowledgements.plist"; sourceTree = "<group>"; };
-		8685E4A5B9E3254FD9D391AB1D8BE738 /* wavwriter.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = wavwriter.h; path = LSSWarToAmr/Classes/amr/wavwriter.h; sourceTree = "<group>"; };
 		88B1DEEBF6316A84D7413645212492FF /* FBSnapshotTestCasePlatform.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = FBSnapshotTestCasePlatform.h; path = FBSnapshotTestCase/FBSnapshotTestCasePlatform.h; sourceTree = "<group>"; };
 		8C163D1B64670541962F0E72C712A1FD /* Pods-LSSWarToAmr_Tests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-LSSWarToAmr_Tests-dummy.m"; sourceTree = "<group>"; };
 		8CAA89EEF1039078430D7A886477E365 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.2.sdk/System/Library/Frameworks/UIKit.framework; sourceTree = DEVELOPER_DIR; };
 		8E5923010B02074CAA9AAF6EA02D66AA /* FBSnapshotTestCase-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "FBSnapshotTestCase-umbrella.h"; sourceTree = "<group>"; };
 		9042B53FDF43C4401DEA7813442FB167 /* Pods_LSSWarToAmr_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_LSSWarToAmr_Tests.framework; path = "Pods-LSSWarToAmr_Tests.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
 		9468E867498BBAF36F9AFFE4845F8B09 /* FBSnapshotTestCase.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = FBSnapshotTestCase.debug.xcconfig; sourceTree = "<group>"; };
-		960A1BD60F0B7B03713AC4E8C8E825A9 /* LSSWarToAmr-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "LSSWarToAmr-Info.plist"; sourceTree = "<group>"; };
 		96187BF3038121CC146335E9FF0B0AFF /* UIImage+Diff.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIImage+Diff.h"; path = "FBSnapshotTestCase/Categories/UIImage+Diff.h"; sourceTree = "<group>"; };
 		99A67367E018411D614EC8536A8A1C5B /* UIApplication+StrictKeyWindow.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIApplication+StrictKeyWindow.h"; path = "FBSnapshotTestCase/Categories/UIApplication+StrictKeyWindow.h"; sourceTree = "<group>"; };
 		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
-		9E8935800AD3D8C170D594E973EE6240 /* LSSWarToAmr-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "LSSWarToAmr-umbrella.h"; sourceTree = "<group>"; };
-		9EF09823FBFD6761530BCBD0241A962B /* wavwriter.mm */ = {isa = PBXFileReference; includeInIndex = 1; name = wavwriter.mm; path = LSSWarToAmr/Classes/amr/wavwriter.mm; sourceTree = "<group>"; };
 		A670C08C994C73C257F1D9A752F040EA /* Pods-LSSWarToAmr_Tests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-LSSWarToAmr_Tests-acknowledgements.markdown"; sourceTree = "<group>"; };
 		A7957CF8880039CEE7E113AD6B7B192F /* Pods-LSSWarToAmr_Tests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-LSSWarToAmr_Tests-umbrella.h"; sourceTree = "<group>"; };
 		AE9FF9459FBCDC4AF88FB6B5A4CC1439 /* FBSnapshotTestController.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = FBSnapshotTestController.h; path = FBSnapshotTestCase/FBSnapshotTestController.h; sourceTree = "<group>"; };
-		B073ED270E190069F5F072EF133DEFA4 /* LSSWarToAmr-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "LSSWarToAmr-dummy.m"; sourceTree = "<group>"; };
 		B7103CA00AED20722C5B69CA5B4F6938 /* FBSnapshotTestCase-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "FBSnapshotTestCase-Info.plist"; sourceTree = "<group>"; };
-		BB34EEA220D641F61D8BC4C28A9A123E /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; path = README.md; sourceTree = "<group>"; };
 		C4B2BB0A0202F3AF02ED1A61E93F95D3 /* Pods-LSSWarToAmr_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-LSSWarToAmr_Tests.debug.xcconfig"; sourceTree = "<group>"; };
-		C9F5C93D806575A2F1923D7B5F1C5352 /* wavreader.c */ = {isa = PBXFileReference; includeInIndex = 1; name = wavreader.c; path = LSSWarToAmr/Classes/amr/wavreader.c; sourceTree = "<group>"; };
+		C9682A945755D9FD7B3831BD4A1734C9 /* wavwriter.mm */ = {isa = PBXFileReference; includeInIndex = 1; name = wavwriter.mm; path = LSSWarToAmr/Classes/amr/wavwriter.mm; sourceTree = "<group>"; };
+		C9940C8B32182B48B70EE1D9603591B3 /* LSSWarToAmr.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = LSSWarToAmr.modulemap; sourceTree = "<group>"; };
+		C9E5734BD2842E137B31FD98FC6B51D5 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; path = LICENSE; sourceTree = "<group>"; };
 		CBFF6C5FD9C3A84274A9314D3E940B6E /* FBSnapshotTestCase.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = FBSnapshotTestCase.modulemap; sourceTree = "<group>"; };
 		D08CEBB9BDD9EF7A662ECFC0305C169E /* FBSnapshotTestCase-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "FBSnapshotTestCase-prefix.pch"; sourceTree = "<group>"; };
 		D872A3EE224412D4057C234FBC629F9C /* UIImage+Snapshot.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UIImage+Snapshot.m"; path = "FBSnapshotTestCase/Categories/UIImage+Snapshot.m"; sourceTree = "<group>"; };
+		DCD843C3EB44CC1E23E0420228FCF639 /* wav_amr.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = wav_amr.h; path = LSSWarToAmr/Classes/amr/wav_amr.h; sourceTree = "<group>"; };
+		E09D7D6F1520DC983347346817A2EEFF /* LSSWarToAmr.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = LSSWarToAmr.debug.xcconfig; sourceTree = "<group>"; };
 		E1417222905193C0CC1D359E5424ED90 /* Pods_LSSWarToAmr_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_LSSWarToAmr_Example.framework; path = "Pods-LSSWarToAmr_Example.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
-		E9577D9A88A397B248121F075841330D /* LSSWarToAmr.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = LSSWarToAmr.release.xcconfig; sourceTree = "<group>"; };
-		EC637FBF4D3CC913BC2A3D31BBE7BB9A /* wavreader.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = wavreader.h; path = LSSWarToAmr/Classes/amr/wavreader.h; sourceTree = "<group>"; };
-		F1DA7459739CDE7422784EB51B83D811 /* libopencore-amrnb.a */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = archive.ar; name = "libopencore-amrnb.a"; path = "LSSWarToAmr/Classes/amr/libopencore-amrnb.a"; sourceTree = "<group>"; };
-		F4E633FEEC10776928AD7B4CA297FA5C /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; path = LICENSE; sourceTree = "<group>"; };
 		F5EC751BD9B3FEC46EB9DA000347C1D4 /* Pods-LSSWarToAmr_Example.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-LSSWarToAmr_Example.modulemap"; sourceTree = "<group>"; };
 		F9F3A7367867B4EDA9CED7498CC5192C /* Pods-LSSWarToAmr_Example-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-LSSWarToAmr_Example-acknowledgements.markdown"; sourceTree = "<group>"; };
-		FBB8D7AA5EEF0B78A898F01263F436E7 /* LSSWarToAmr.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = LSSWarToAmr.debug.xcconfig; sourceTree = "<group>"; };
 		FBD1269CDAB0DD928B0EA0F2773FCBD7 /* Pods-LSSWarToAmr_Tests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-LSSWarToAmr_Tests.modulemap"; sourceTree = "<group>"; };
 		FEE661E58CA6655B39AA49AA4C021C33 /* FBSnapshotTestCase.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = FBSnapshotTestCase.h; path = FBSnapshotTestCase/FBSnapshotTestCase.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -182,35 +182,16 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		173DB933506B6DF56CAFF89396EF1F4D /* LSSWarToAmr */ = {
+		0FD7930BB67B0C981BF79D04F350E306 /* Support Files */ = {
 			isa = PBXGroup;
 			children = (
-				6CE2DE3191C7D07B34A7F28873FA529F /* interf_dec.h */,
-				01EFE32D7989AB7342553277827AC9B0 /* interf_enc.h */,
-				F1DA7459739CDE7422784EB51B83D811 /* libopencore-amrnb.a */,
-				5CA07F40CBD68E93A735D100997A259B /* wav_amr.h */,
-				00DBF082F353B1BE373ADDFC8D6367B3 /* wav_amr.mm */,
-				C9F5C93D806575A2F1923D7B5F1C5352 /* wavreader.c */,
-				EC637FBF4D3CC913BC2A3D31BBE7BB9A /* wavreader.h */,
-				8685E4A5B9E3254FD9D391AB1D8BE738 /* wavwriter.h */,
-				9EF09823FBFD6761530BCBD0241A962B /* wavwriter.mm */,
-				7CD9422EE5D963FB34E84265F8F9EC3B /* Pod */,
-				2287D1A52933D4609FC18976EDA9B8C1 /* Support Files */,
-			);
-			name = LSSWarToAmr;
-			path = ../..;
-			sourceTree = "<group>";
-		};
-		2287D1A52933D4609FC18976EDA9B8C1 /* Support Files */ = {
-			isa = PBXGroup;
-			children = (
-				4E6301E1DDE3831934AF73871ED51A1A /* LSSWarToAmr.modulemap */,
-				B073ED270E190069F5F072EF133DEFA4 /* LSSWarToAmr-dummy.m */,
-				960A1BD60F0B7B03713AC4E8C8E825A9 /* LSSWarToAmr-Info.plist */,
-				5B723FA1D39D85010914397B596657F6 /* LSSWarToAmr-prefix.pch */,
-				9E8935800AD3D8C170D594E973EE6240 /* LSSWarToAmr-umbrella.h */,
-				FBB8D7AA5EEF0B78A898F01263F436E7 /* LSSWarToAmr.debug.xcconfig */,
-				E9577D9A88A397B248121F075841330D /* LSSWarToAmr.release.xcconfig */,
+				C9940C8B32182B48B70EE1D9603591B3 /* LSSWarToAmr.modulemap */,
+				1AC496A06ABF022A4DE20A2B8F46D4D6 /* LSSWarToAmr-dummy.m */,
+				3BB459C2F8520A99EF1AE93199617ADD /* LSSWarToAmr-Info.plist */,
+				214AC903427775E18E383F6D4A9889E6 /* LSSWarToAmr-prefix.pch */,
+				7D7721844C45328F40D1869D46987002 /* LSSWarToAmr-umbrella.h */,
+				E09D7D6F1520DC983347346817A2EEFF /* LSSWarToAmr.debug.xcconfig */,
+				64D7A669ADCF55BDB791CB631AF6C584 /* LSSWarToAmr.release.xcconfig */,
 			);
 			name = "Support Files";
 			path = "Example/Pods/Target Support Files/LSSWarToAmr";
@@ -244,6 +225,24 @@
 			path = "Target Support Files/Pods-LSSWarToAmr_Example";
 			sourceTree = "<group>";
 		};
+		399D848B227CE805E326506BC2F5BADA /* Development Pods */ = {
+			isa = PBXGroup;
+			children = (
+				D7478AB9C8915FD7E7F6DE4071A7A142 /* LSSWarToAmr */,
+			);
+			name = "Development Pods";
+			sourceTree = "<group>";
+		};
+		44D6BBE61E9B88490A5C7B8918BECF47 /* Pod */ = {
+			isa = PBXGroup;
+			children = (
+				C9E5734BD2842E137B31FD98FC6B51D5 /* LICENSE */,
+				220D849058D638ABC9D05FE69742D178 /* LSSWarToAmr.podspec */,
+				0A93A7E5BD20A36B8B329B66419FE992 /* README.md */,
+			);
+			name = Pod;
+			sourceTree = "<group>";
+		};
 		4BA2479549DD918290454B1CDCD0B92B /* Core */ = {
 			isa = PBXGroup;
 			children = (
@@ -265,6 +264,13 @@
 			name = Core;
 			sourceTree = "<group>";
 		};
+		5349508999D0CF81B568BE6CF541BB1F /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
 		5E839033F5C1A3DFCDE4CD46E769E999 /* Pods-LSSWarToAmr_Tests */ = {
 			isa = PBXGroup;
 			children = (
@@ -280,16 +286,6 @@
 			);
 			name = "Pods-LSSWarToAmr_Tests";
 			path = "Target Support Files/Pods-LSSWarToAmr_Tests";
-			sourceTree = "<group>";
-		};
-		7CD9422EE5D963FB34E84265F8F9EC3B /* Pod */ = {
-			isa = PBXGroup;
-			children = (
-				F4E633FEEC10776928AD7B4CA297FA5C /* LICENSE */,
-				01B328556D492480F83FF3C7EAC52938 /* LSSWarToAmr.podspec */,
-				BB34EEA220D641F61D8BC4C28A9A123E /* README.md */,
-			);
-			name = Pod;
 			sourceTree = "<group>";
 		};
 		7DE5752EED0A4C4A430975244947611A /* iOS */ = {
@@ -354,24 +350,36 @@
 			name = "Targets Support Files";
 			sourceTree = "<group>";
 		};
-		CE219A9E382840953E7A1BB104A9A8AB /* Development Pods */ = {
-			isa = PBXGroup;
-			children = (
-				173DB933506B6DF56CAFF89396EF1F4D /* LSSWarToAmr */,
-			);
-			name = "Development Pods";
-			sourceTree = "<group>";
-		};
 		CF1408CF629C7361332E53B88F7BD30C = {
 			isa = PBXGroup;
 			children = (
 				9D940727FF8FB9C785EB98E56350EF41 /* Podfile */,
-				CE219A9E382840953E7A1BB104A9A8AB /* Development Pods */,
+				399D848B227CE805E326506BC2F5BADA /* Development Pods */,
 				BA4F31F07263C99FC76E66D632A59F09 /* Frameworks */,
 				E81A37DBDE41E671312C56736544E2FA /* Pods */,
 				385639D6F4739DE854E794965EB77F19 /* Products */,
 				C63AD3E912E426E5C7C161656D32BAEC /* Targets Support Files */,
 			);
+			sourceTree = "<group>";
+		};
+		D7478AB9C8915FD7E7F6DE4071A7A142 /* LSSWarToAmr */ = {
+			isa = PBXGroup;
+			children = (
+				770F6501B0C5434CD60B423B6476CB7F /* interf_dec.h */,
+				14CEB2F521481D67EED78FB63C90528B /* interf_enc.h */,
+				1590A8008F9714A535C7F181C4DB1843 /* libopencore-amrnb.a */,
+				DCD843C3EB44CC1E23E0420228FCF639 /* wav_amr.h */,
+				5F5835AC08EF1F1A723BD0E22C7BD06A /* wav_amr.mm */,
+				45FF10D81FAB50A35DD691FD94AB64F4 /* wavreader.c */,
+				0B1FE1422A6320D5FF3D0DCB07369C5E /* wavreader.h */,
+				5105E476B40B60A6F38776B2D9C34B7E /* wavwriter.h */,
+				C9682A945755D9FD7B3831BD4A1734C9 /* wavwriter.mm */,
+				5349508999D0CF81B568BE6CF541BB1F /* Frameworks */,
+				44D6BBE61E9B88490A5C7B8918BECF47 /* Pod */,
+				0FD7930BB67B0C981BF79D04F350E306 /* Support Files */,
+			);
+			name = LSSWarToAmr;
+			path = ../..;
 			sourceTree = "<group>";
 		};
 		E81A37DBDE41E671312C56736544E2FA /* Pods */ = {
@@ -444,7 +452,7 @@
 			buildRules = (
 			);
 			dependencies = (
-				78256C84F394869AFCFEC7EBDAF69063 /* PBXTargetDependency */,
+				65CAA053462E4888AC2857F08B4E8D2B /* PBXTargetDependency */,
 			);
 			name = "Pods-LSSWarToAmr_Example";
 			productName = "Pods-LSSWarToAmr_Example";
@@ -499,8 +507,8 @@
 			buildRules = (
 			);
 			dependencies = (
-				290B522C9E13102BA3F4887DFE924F16 /* PBXTargetDependency */,
-				CC5EE83A96FA1FF0AE6A8A0F76944979 /* PBXTargetDependency */,
+				0AA498F3415B9E521A32C7B3E49C2656 /* PBXTargetDependency */,
+				A2A2A60C2BDAFF0C558E57F8AF47F278 /* PBXTargetDependency */,
 			);
 			name = "Pods-LSSWarToAmr_Tests";
 			productName = "Pods-LSSWarToAmr_Tests";
@@ -616,36 +624,33 @@
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
-		290B522C9E13102BA3F4887DFE924F16 /* PBXTargetDependency */ = {
+		0AA498F3415B9E521A32C7B3E49C2656 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			name = FBSnapshotTestCase;
 			target = 98A98149697C80CEF8D5772791E92E66 /* FBSnapshotTestCase */;
-			targetProxy = C30FBBFE6A23F34AD34EE97DA99857E8 /* PBXContainerItemProxy */;
+			targetProxy = 5E59494A7F73E0614FB8F16CA9D859EF /* PBXContainerItemProxy */;
 		};
-		78256C84F394869AFCFEC7EBDAF69063 /* PBXTargetDependency */ = {
+		65CAA053462E4888AC2857F08B4E8D2B /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			name = LSSWarToAmr;
 			target = 80AB35E10621C60337464C7DD89EC031 /* LSSWarToAmr */;
-			targetProxy = 634A15620B1730BAF5529C182D596E5A /* PBXContainerItemProxy */;
+			targetProxy = 08A4EA29481478E3FB9F327629D3DCF0 /* PBXContainerItemProxy */;
 		};
-		CC5EE83A96FA1FF0AE6A8A0F76944979 /* PBXTargetDependency */ = {
+		A2A2A60C2BDAFF0C558E57F8AF47F278 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			name = "Pods-LSSWarToAmr_Example";
 			target = 5371202695CAD5580A1779D16901C96F /* Pods-LSSWarToAmr_Example */;
-			targetProxy = 838CC316114C47D6E9C9F0D70DD0D783 /* PBXContainerItemProxy */;
+			targetProxy = 2F612B98AA47FA8A790285CB7F4FA2D4 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 
 /* Begin XCBuildConfiguration section */
-		130BC50F3C0F6577FA916B3EB68D9C14 /* Debug */ = {
+		0DB2A309446FD09207D600E9FFA92B5E /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = FBB8D7AA5EEF0B78A898F01263F436E7 /* LSSWarToAmr.debug.xcconfig */;
+			baseConfigurationReference = 13A2F0CAB9ADA24A1C71282972BC3B50 /* Pods-LSSWarToAmr_Example.release.xcconfig */;
 			buildSettings = {
-				ARCHS = (
-					arm64,
-					armv7,
-					armv7s,
-				);
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
+				ARCHS = "$(ARCHS_STANDARD)";
 				CLANG_ENABLE_OBJC_WEAK = NO;
 				CODE_SIGN_IDENTITY = "";
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
@@ -656,23 +661,25 @@
 				DYLIB_COMPATIBILITY_VERSION = 1;
 				DYLIB_CURRENT_VERSION = 1;
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				GCC_PREFIX_HEADER = "Target Support Files/LSSWarToAmr/LSSWarToAmr-prefix.pch";
-				INFOPLIST_FILE = "Target Support Files/LSSWarToAmr/LSSWarToAmr-Info.plist";
+				INFOPLIST_FILE = "Target Support Files/Pods-LSSWarToAmr_Example/Pods-LSSWarToAmr_Example-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MODULEMAP_FILE = "Target Support Files/LSSWarToAmr/LSSWarToAmr.modulemap";
-				PRODUCT_MODULE_NAME = LSSWarToAmr;
-				PRODUCT_NAME = LSSWarToAmr;
+				MACH_O_TYPE = staticlib;
+				MODULEMAP_FILE = "Target Support Files/Pods-LSSWarToAmr_Example/Pods-LSSWarToAmr_Example.modulemap";
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
+				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
-				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
-				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
 				VERSIONING_SYSTEM = "apple-generic";
 				VERSION_INFO_PREFIX = "";
 			};
-			name = Debug;
+			name = Release;
 		};
 		196DFA3E4A09A28224918543529A1885 /* Debug */ = {
 			isa = XCBuildConfiguration;
@@ -769,15 +776,11 @@
 			};
 			name = Debug;
 		};
-		62266FADB1AD16B0F1998E56F8E6CB77 /* Release */ = {
+		7BA2521DC954AAA7990C6A31BF964DD0 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = E9577D9A88A397B248121F075841330D /* LSSWarToAmr.release.xcconfig */;
+			baseConfigurationReference = E09D7D6F1520DC983347346817A2EEFF /* LSSWarToAmr.debug.xcconfig */;
 			buildSettings = {
-				ARCHS = (
-					arm64,
-					armv7,
-					armv7s,
-				);
+				ARCHS = "$(ARCHS_STANDARD)";
 				CLANG_ENABLE_OBJC_WEAK = NO;
 				CODE_SIGN_IDENTITY = "";
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
@@ -801,11 +804,10 @@
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				VALIDATE_PRODUCT = YES;
 				VERSIONING_SYSTEM = "apple-generic";
 				VERSION_INFO_PREFIX = "";
 			};
-			name = Release;
+			name = Debug;
 		};
 		8009D0A162C652A251A8CBEB029887D0 /* Debug */ = {
 			isa = XCBuildConfiguration;
@@ -828,45 +830,6 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				MACH_O_TYPE = staticlib;
 				MODULEMAP_FILE = "Target Support Files/Pods-LSSWarToAmr_Tests/Pods-LSSWarToAmr_Tests.modulemap";
-				OTHER_LDFLAGS = "";
-				OTHER_LIBTOOLFLAGS = "";
-				PODS_ROOT = "$(SRCROOT)";
-				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
-				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Debug;
-		};
-		9B52BA494C2507653C2320107D82188F /* Debug */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = 391E9E57D423872918CD3D4AF6E555C8 /* Pods-LSSWarToAmr_Example.debug.xcconfig */;
-			buildSettings = {
-				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
-				ARCHS = (
-					arm64,
-					armv7,
-					armv7s,
-				);
-				CLANG_ENABLE_OBJC_WEAK = NO;
-				CODE_SIGN_IDENTITY = "";
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				CURRENT_PROJECT_VERSION = 1;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				INFOPLIST_FILE = "Target Support Files/Pods-LSSWarToAmr_Example/Pods-LSSWarToAmr_Example-Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MACH_O_TYPE = staticlib;
-				MODULEMAP_FILE = "Target Support Files/Pods-LSSWarToAmr_Example/Pods-LSSWarToAmr_Example.modulemap";
 				OTHER_LDFLAGS = "";
 				OTHER_LIBTOOLFLAGS = "";
 				PODS_ROOT = "$(SRCROOT)";
@@ -1007,16 +970,46 @@
 			};
 			name = Release;
 		};
-		C0BB4A76F2E9F0F044C5B4D2BBE29E8C /* Release */ = {
+		D9736DA03807472E8D7E2878244EEDA8 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 13A2F0CAB9ADA24A1C71282972BC3B50 /* Pods-LSSWarToAmr_Example.release.xcconfig */;
+			baseConfigurationReference = 64D7A669ADCF55BDB791CB631AF6C584 /* LSSWarToAmr.release.xcconfig */;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD)";
+				CLANG_ENABLE_OBJC_WEAK = NO;
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				GCC_PREFIX_HEADER = "Target Support Files/LSSWarToAmr/LSSWarToAmr-prefix.pch";
+				INFOPLIST_FILE = "Target Support Files/LSSWarToAmr/LSSWarToAmr-Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MODULEMAP_FILE = "Target Support Files/LSSWarToAmr/LSSWarToAmr.modulemap";
+				PRODUCT_MODULE_NAME = LSSWarToAmr;
+				PRODUCT_NAME = LSSWarToAmr;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				SWIFT_VERSION = 4.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Release;
+		};
+		EF194DEE0F1F966D99801D0ED7B54FA5 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 391E9E57D423872918CD3D4AF6E555C8 /* Pods-LSSWarToAmr_Example.debug.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
-				ARCHS = (
-					arm64,
-					armv7,
-					armv7s,
-				);
+				ARCHS = "$(ARCHS_STANDARD)";
 				CLANG_ENABLE_OBJC_WEAK = NO;
 				CODE_SIGN_IDENTITY = "";
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
@@ -1041,11 +1034,10 @@
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				VALIDATE_PRODUCT = YES;
 				VERSIONING_SYSTEM = "apple-generic";
 				VERSION_INFO_PREFIX = "";
 			};
-			name = Release;
+			name = Debug;
 		};
 /* End XCBuildConfiguration section */
 
@@ -1053,8 +1045,8 @@
 		1435319EF652209EC63C95FD191331E1 /* Build configuration list for PBXNativeTarget "Pods-LSSWarToAmr_Example" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				9B52BA494C2507653C2320107D82188F /* Debug */,
-				C0BB4A76F2E9F0F044C5B4D2BBE29E8C /* Release */,
+				EF194DEE0F1F966D99801D0ED7B54FA5 /* Debug */,
+				0DB2A309446FD09207D600E9FFA92B5E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
@@ -1071,8 +1063,8 @@
 		8B68CC472455BA2EE52A65B08E08A9B4 /* Build configuration list for PBXNativeTarget "LSSWarToAmr" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				130BC50F3C0F6577FA916B3EB68D9C14 /* Debug */,
-				62266FADB1AD16B0F1998E56F8E6CB77 /* Release */,
+				7BA2521DC954AAA7990C6A31BF964DD0 /* Debug */,
+				D9736DA03807472E8D7E2878244EEDA8 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;

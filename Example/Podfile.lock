@@ -4,7 +4,7 @@ PODS:
   - FBSnapshotTestCase/Core (2.1.4)
   - FBSnapshotTestCase/SwiftSupport (2.1.4):
     - FBSnapshotTestCase/Core
-  - LSSWarToAmr (0.1.1)
+  - LSSWarToAmr (0.1.2)
 
 DEPENDENCIES:
   - FBSnapshotTestCase
@@ -20,7 +20,7 @@ EXTERNAL SOURCES:
 
 SPEC CHECKSUMS:
   FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
-  LSSWarToAmr: a994198deea9a70786dd1a4e9c091f12453589ad
+  LSSWarToAmr: fa4c4b820d61f347de3762f6e46dd31d0c85a614
 
 PODFILE CHECKSUM: ed7c0763f37b969740fe7791a5c7349e0b147d9d
 
