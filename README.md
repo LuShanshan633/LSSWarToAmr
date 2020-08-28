@@ -6,7 +6,9 @@
 [![Platform](https://img.shields.io/cocoapods/p/LSSWarToAmr.svg?style=flat)](https://cocoapods.org/pods/LSSWarToAmr)
 
 ## Example
-*注意iOS录音wav格式的rate设置为8000
+# *注意iOS录音wav格式的rate设置为8000
+
+
 To run the example project, clone the repo, and run `pod install` from the Example directory first.
 
 ## Requirements
